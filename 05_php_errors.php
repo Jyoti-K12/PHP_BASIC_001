@@ -41,7 +41,7 @@ include 'nonexistent_file.php'; // Warning: include(nonexistent_file.php): faile
 /*
  These are critical errors that immediately stop the script execution. They occur when something very wrong happens, like calling a function that doesn't exist.
  */
-myFunction(); // Fatal error: Call to undefined function myFunction()
+//myFunction(); // Fatal error: Call to undefined function myFunction()
 
 
 
