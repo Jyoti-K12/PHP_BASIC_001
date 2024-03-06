@@ -33,3 +33,5 @@ how to get fast my query response in mysql tell me 2 different ways
 which type of join get fast record?
 
 delete and truncate which is fast and why?
+
+types of indexing? how can index two columns or mor than two?
