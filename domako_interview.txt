@@ -1,0 +1,35 @@
+difference b/w abstraction and encapsulation.
+
+can we use constructor in abstract class
+
+function overloading is possible in php
+
+can be use final keyword in abstract class
+
+private constructor used in php or not?
+
+design pattern in php language?
+
+
+mysql
+----------------------
+
+select concat (null, 'hello') what is output?
+
+current date in mysql 3 different way
+
+how to get record from table after 4 days?
+
+types of db engine in mysql. two mostly used.
+
+triggers
+
+procedures
+
+can we use multiple select queries in procedures
+
+how to get fast my query response in mysql tell me 2 different ways
+
+which type of join get fast record?
+
+delete and truncate which is fast and why?
